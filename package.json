@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server for multichat",
+  "main": "server.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@apollo/client": "^3.2.0",
+    "graphql-yoga": "^1.18.3",
+    "subscriptions-transport-ws": "^0.9.18"
+  }
+}
